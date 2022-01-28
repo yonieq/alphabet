@@ -1,0 +1,86 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\admin.vue",
+    "chunkName": "pages/admin"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "blog-one",
+    "path": "/blog-one",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\blog-one.vue",
+    "chunkName": "pages/blog-one"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "diction-three",
+    "path": "/diction-three",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\diction-three.vue",
+    "chunkName": "pages/diction-three"
+  },
+  {
+    "name": "diction-two",
+    "path": "/diction-two",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\diction-two.vue",
+    "chunkName": "pages/diction-two"
+  },
+  {
+    "name": "gallery-one",
+    "path": "/gallery-one",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\gallery-one.vue",
+    "chunkName": "pages/gallery-one"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\products.vue",
+    "chunkName": "pages/products"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products-details/:id?",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\products-details\\\\_id.vue",
+    "chunkName": "pages/products-details/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\niq\\\\Documents\\\\bolster-vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
